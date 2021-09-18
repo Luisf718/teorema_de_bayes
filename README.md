@@ -1,1 +1,2 @@
 # teorema_de_bayes
+Este es un proyecto donde aplico el teorema de bayes, este teorema te ayuda a calcular la probabilidad de que pase un evento dado que paso otro evento y en este proyecto hay varios ejemplos donde aplico el teorema con datos y con problemas reales 
